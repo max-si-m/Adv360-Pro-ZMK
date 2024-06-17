@@ -83,7 +83,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans     &trans      &trans         &trans  &trans
  &trans   &kp Q   &kp W   &kp F   &kp P   &kp B             &to 0                                                  &trans   &kp J   &kp L      &kp U       &kp Y  &kp SEMICOLON  &trans
  &trans   &kp A   &kp R   &kp S   &kp T   &kp G            &trans  &trans  &trans                  &trans  &trans  &trans   &kp M   &kp N      &kp E       &kp I          &kp O  &trans
- &trans   &kp Z   &kp X   &kp C   &kp D   &kp V                            &trans                  &trans                   &kp K   &kp H  &kp COMMA  &kp PERIOD      &kp SLASH  &trans
+ &trans   &kp Z   &kp X   &kp C   &kp V   &kp D                            &trans                  &trans                   &kp K   &kp H  &kp COMMA  &kp PERIOD      &kp SLASH  &trans
  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans     &trans      &trans         &trans  &trans
             >;
         };
